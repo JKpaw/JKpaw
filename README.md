@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JKpaw
-- 👀 I would like to make a game, reddit bot ir some app for pc or android.
+- 👀 I would like to make a game, reddit bot or some app for pc or android.
 - 🌱 I’m currently learning python.
 
 <!---
